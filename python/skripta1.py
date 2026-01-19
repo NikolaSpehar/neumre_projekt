@@ -212,4 +212,5 @@ if __name__ == "__main__":
     INPUT_DIR = "openpose_json/video10"
     OUTPUT_FILE = "opoenpose_video10.json"
     
+
     convert_openpose_to_blender_2d(INPUT_DIR, OUTPUT_FILE, frame_rate=30)
